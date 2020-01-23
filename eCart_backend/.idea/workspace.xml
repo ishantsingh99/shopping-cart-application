@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1153a70e-cf0b-40e3-b93e-7ffcae9b06e1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1RMriLnPlNl4cDVEbi64ZMd8WLQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ECartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eCart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.caseStudy.eCart.ECartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1153a70e-cf0b-40e3-b93e-7ffcae9b06e1" name="Default Changelist" comment="" />
+      <created>1569487931535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569487931535</updated>
+      <workItem from="1569487946707" duration="4679000" />
+      <workItem from="1569521939732" duration="721000" />
+      <workItem from="1569555899270" duration="5734000" />
+      <workItem from="1569761356955" duration="8098000" />
+      <workItem from="1569815597239" duration="516000" />
+      <workItem from="1569821761871" duration="5350000" />
+      <workItem from="1569856862126" duration="599000" />
+      <workItem from="1569902956011" duration="263000" />
+      <workItem from="1569908580533" duration="15672000" />
+      <workItem from="1570175036161" duration="5186000" />
+      <workItem from="1570181661272" duration="4967000" />
+      <workItem from="1570247288870" duration="10608000" />
+      <workItem from="1570294276022" duration="1009000" />
+      <workItem from="1570337413366" duration="3429000" />
+      <workItem from="1570523089307" duration="4807000" />
+      <workItem from="1570548830083" duration="1684000" />
+      <workItem from="1570596763361" duration="14699000" />
+      <workItem from="1570694909872" duration="15761000" />
+      <workItem from="1570765121322" duration="8419000" />
+      <workItem from="1570778608849" duration="9231000" />
+      <workItem from="1570795419351" duration="1442000" />
+      <workItem from="1570851488556" duration="7890000" />
+      <workItem from="1570868668855" duration="59000" />
+      <workItem from="1570888742234" duration="1138000" />
+      <workItem from="1570900939290" duration="607000" />
+      <workItem from="1570983525731" duration="1325000" />
+      <workItem from="1570989688759" duration="1112000" />
+      <workItem from="1571024758706" duration="22219000" />
+      <workItem from="1571115520492" duration="3562000" />
+      <workItem from="1571146444954" duration="69000" />
+      <workItem from="1571146751797" duration="1434000" />
+      <workItem from="1571187502901" duration="1193000" />
+      <workItem from="1571225287245" duration="14584000" />
+      <workItem from="1571281462411" duration="6259000" />
+      <workItem from="1571298602386" duration="10612000" />
+      <workItem from="1571367355718" duration="10001000" />
+      <workItem from="1571489310952" duration="25000" />
+      <workItem from="1572014076108" duration="619000" />
+      <workItem from="1572072750778" duration="382000" />
+      <workItem from="1572436075309" duration="1576000" />
+      <workItem from="1572508481599" duration="1514000" />
+      <workItem from="1572615011700" duration="520000" />
+      <workItem from="1572673016731" duration="698000" />
+      <workItem from="1572842370364" duration="84000" />
+      <workItem from="1572874664622" duration="1722000" />
+      <workItem from="1573015794761" duration="7243000" />
+      <workItem from="1573097737149" duration="4462000" />
+      <workItem from="1573188450578" duration="1482000" />
+      <workItem from="1573293640177" duration="327000" />
+      <workItem from="1573488751763" duration="1205000" />
+      <workItem from="1573617750412" duration="1279000" />
+      <workItem from="1573649777347" duration="1800000" />
+      <workItem from="1573703127964" duration="9000" />
+      <workItem from="1573703168737" duration="799000" />
+      <workItem from="1577201264810" duration="385000" />
+      <workItem from="1577427460440" duration="643000" />
+      <workItem from="1578461217703" duration="1687000" />
+      <workItem from="1578807563668" duration="699000" />
+      <workItem from="1578817185652" duration="1179000" />
+      <workItem from="1578847576184" duration="623000" />
+      <workItem from="1578921845273" duration="1303000" />
+      <workItem from="1578933527320" duration="602000" />
+      <workItem from="1579793962344" duration="604000" />
+    </task>
+    <task id="LOCAL-00001" summary="1st commit">
+      <created>1570696402213</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570696402213</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1st commit">
+      <created>1570784732777</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570784732777</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1st commit">
+      <created>1570868718861</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1570868718861</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1st commit">
+      <created>1571117112105</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571117112105</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1st commit">
+      <created>1571306772943</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1571306772943</updated>
+    </task>
+    <task id="LOCAL-00006" summary="8th commit">
+      <created>1571377308869</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1571377308869</updated>
+    </task>
+    <task id="LOCAL-00007" summary="9th commit">
+      <created>1571397293443</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1571397293443</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st commit" />
+    <MESSAGE value="8th commit" />
+    <MESSAGE value="9th commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="9th commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="262" key="GridCell.Tab.0.bottom" timestamp="1578819685879">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578819685879" />
+    <state width="1493" height="262" key="GridCell.Tab.0.center" timestamp="1578819685879">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578819685879" />
+    <state width="1493" height="262" key="GridCell.Tab.0.left" timestamp="1578819685879">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578819685879" />
+    <state width="1493" height="262" key="GridCell.Tab.0.right" timestamp="1578819685879">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578819685879" />
+    <state width="1493" height="262" key="GridCell.Tab.1.bottom" timestamp="1578819685879">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578819685879" />
+    <state width="1493" height="262" key="GridCell.Tab.1.center" timestamp="1578819685879">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1578819685879" />
+    <state width="1493" height="262" key="GridCell.Tab.1.left" timestamp="1578819685879">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1578819685879" />
+    <state width="1493" height="262" key="GridCell.Tab.1.right" timestamp="1578819685879">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1578819685879" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/com/caseStudy/eCart/services/cartService.java</url>
+          <line>22</line>
+          <properties field="userDetailsRepository" class="com.caseStudy.eCart.services.cartService" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/caseStudy/eCart/services/currentUserService.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="this.currentUserService" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

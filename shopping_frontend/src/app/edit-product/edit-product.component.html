@@ -1,0 +1,55 @@
+
+<div class="row justify-content-center " style="width:100%">
+  <div class="col-10 col-sm-8 col-md-7 col-lg-5 ">
+  <h1 class="text-primary" style="text-align: center">Edit Product</h1>
+    <br>
+  <form  class="form-horizontal mt-2" >
+    <div id="div_id_username" class="form-group required">
+      <label class="control-label col-md-4  requiredField"> Name : </label>
+      <div class="controls col-md-8 ">
+        <input class="input-md  textinput textInput form-control" [(ngModel)]="name" maxlength="20" name="username" placeholder="Enter Name " style="margin-bottom: 10px" type="text" />
+      </div>
+    </div>
+    <div id="div_id_email" class="form-group required">
+      <label class="control-label col-md-4  requiredField">Price : </label>
+      <div class="controls col-md-8 ">
+        <input class="input-md emailinput form-control" [(ngModel)]="price" name="price" placeholder="Enter Price " style="margin-bottom: 10px" type="text" />
+      </div>
+    </div>
+    <div id="div_id_password1" class="form-group required">
+      <label class="control-label col-md-4  requiredField">Category : </label>
+      <div class="controls col-md-8 ">
+        <input class="input-md textinput textInput form-control" [(ngModel)]="category" name="category" placeholder="Enter Category" style="margin-bottom: 10px" type="text" />
+      </div>
+    </div>
+    <div id="div_id_password2" class="form-group required">
+      <label class="control-label col-md-4  requiredField"> Active : </label>
+      <div class="controls col-md-8 ">
+        <input class="input-md textinput textInput form-control" [(ngModel)]="active" name="active" placeholder="Enter Active" style="margin-bottom: 10px" type="number" />
+      </div>
+    </div>
+    <div id="div_id_name" class="form-group required">
+      <label class="control-label col-md-4  requiredField">Delivered By :</label>
+      <div class="controls col-md-8 ">
+        <input class="input-md textinput textInput form-control" [(ngModel)]="deliveredby" name="name" placeholder="Product Delivered By" style="margin-bottom: 10px" type="text" />
+      </div>
+    </div>
+    <div id="div_id_company" class="form-group required">
+      <label class="control-label col-md-4  requiredField">Image Source : </label>
+      <div class="controls col-md-8 ">
+        <input class="input-md textinput textInput form-control" [(ngModel)]="src" name="img" placeholder="Enter Image Source" style="margin-bottom: 10px" type="text" />
+      </div>
+    </div>
+    <div id="div_id_catagory" class="form-group required">
+      <label class="control-label col-md-4  requiredField">Other Information : </label>
+      <div class="controls col-md-8 ">
+        <input class="input-md textinput textInput form-control" [(ngModel)]="others" name="qty" placeholder="Enter Other Information" style="margin-bottom: 10px" type="text" />
+      </div>
+    </div>
+    <div class="controls col-md-8" style="text-align: center">
+        <input type="button" (click)="editP()" name="Signup" value="Save Changes" class="btn btn-primary" />
+    </div>
+
+  </form>
+  </div>
+</div>

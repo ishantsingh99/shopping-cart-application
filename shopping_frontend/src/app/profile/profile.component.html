@@ -1,0 +1,26 @@
+<app-nav-bar></app-nav-bar>
+<div style="background-image:linear-gradient(to bottom right,#ffe6e6,salmon);height:670px;margin-top:0px">
+  <h1 style="text-align:center ;color:blue">MY PROFILE</h1>
+  <br>
+  <div class="container" style="text-align: center">
+    <div *ngIf="app.isAdmin(); else elseblock">
+      <h2 style="color: blue">You are ADMIN</h2>
+    </div>
+    <ng-template #elseblock>
+      <h2 style="color: blue"> You are User</h2>
+    </ng-template>
+    <div *ngIf="app.isAdmin()">
+      <button type="submit" class="btn btn-primary mr-2" routerLink="/add-product">Add Product</button>
+    </div>
+    <button type="submit" class="btn btn-primary mt-2" (click)="toggle()">Edit Profile</button>
+    <div *ngIf="user">
+      <h2 style="color: blue">User Name:</h2>
+      <input type="text" value="{{user.username}}" [disabled]="disabled" [(ngModel)]="user.username">
+      <h2 style="color: blue">Password:</h2>
+      <input type="text" value="{{user.password}}" [disabled]="disabled" [(ngModel)]="user.password">
+    </div>
+    <br><button type="submit" class="btn btn-primary mr-2" (click)="save()">Save Changes</button>
+  </div>
+</div>
+
+

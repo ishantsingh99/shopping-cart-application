@@ -1,0 +1,28 @@
+<app-nav-bar></app-nav-bar>
+
+<div class="container pt-5">
+  <div class="row">
+    <div class="col-12 col-sm-12 col-md-6">
+      <img src="{{products.src}}">
+    </div>
+    <div class="col-12 col-sm-12 col-md-6">
+      <h1 style="margin-left:60px" class="text-primary"> {{products.name}}</h1><hr>
+      <h3 style="margin-left:60px; color: orangered">Price: ${{products.price}}</h3>
+      <h3 style="margin-left:60px; color: darkorange">Delivered By: {{products.deliveredby}}</h3>
+      <h3 style="margin-left:60px; color: green">About Product: {{products.others}}</h3><br>
+      <button style="margin-left:60px" class="btn btn-primary btn-md" (click)= "goToCart(products.id)" >Add To Cart</button>
+      <div *ngIf="appService.isAdmin()">
+        <button style="margin-left:60px" class="btn btn-primary mr-2" (click)="editpro(products.id)">Edit Product</button>
+      </div>
+      <br><br>
+      <div style="margin-left:60px; color: #ffbb33; font-size: 20px">&#9733; &#9733; &#9733; &#9733; &#9734;</div><hr>
+<!--      <button type="button" class="btn btn-outline-b pl-2 shadow-sm" (click)="addProduct(product1.pid)">Add To Cart</button>-->
+      <div style="margin-left:60px; color: blue">Only Three left in stock - Order soon</div>
+      <div style="margin-left:60px; color: blue">Free Shopify product support included</div>
+      </div>
+  </div>
+</div>
+
+
+
+

@@ -1,0 +1,30 @@
+<app-nav-bar></app-nav-bar>
+<!--<app-nav-bar [totalQuantity]="totalQuantity"></app-nav-bar>-->
+<div class="container" style="margin-top: 100px ">
+  <div class="row">
+    <div class="col-sm-10">
+      <p>{{this.totalQuantity}}</p>
+      <table class="table table-bordered bg-white">
+        <thead>
+        <tr>
+          <th>OrderDate</th>
+          <th>Product</th>
+          <th>Quantity</th>
+          <th>Price</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr *ngFor="let p of order">
+          <td>{{p.date}}</td>
+          <td><img src="{{p.product.src}}" style="width:150px;height:150px;margin:auto;"><h4>{{p.product.name}}</h4></td>
+          <td>{{p.totalquantity}}</td>
+          <td>{{p.totalprice}}</td>
+        </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col-sm-2">
+      <h5>Total amount:{{this.totalPrice}}</h5>
+    </div>
+  </div>
+</div>

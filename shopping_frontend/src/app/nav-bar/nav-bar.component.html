@@ -1,0 +1,22 @@
+
+<div class="container-fluid bg sticky-top">
+  <div class ="row">
+    <div class="col-12 col-sm-12 col-md-6 col-lg-6 mt-1 ">
+      <a class="navbar-brand active" href="home-page" style="color: white; font-size:30px; font-family: Comic Sans MS;padding-left: 120px"><b>SHOPIFY</b></a>
+    </div>
+
+    <div class="col-12 col-sm-12 col-md-6 col-lg-6 mt-4 mb-4">
+      <a href="#" class="btn btn-info ml-5" routerLink="/profile" role="button">
+        <span class="glyphicon glyphicon-user"></span> Profile
+      </a>
+      <a (click)="showcart()" class="btn btn-info ml-5" style="color:white" role="button">
+        <span class="glyphicon glyphicon-shopping-cart"></span> My Cart
+      </a>
+      <a (click)="logout()" class="btn btn-info ml-5" routerLink="/login" role="button">
+        <span class="glyphicon glyphicon-log-out" ></span> Logout
+      </a>
+    </div>
+  </div>
+</div>
+
+

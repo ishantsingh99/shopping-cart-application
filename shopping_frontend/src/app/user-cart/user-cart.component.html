@@ -1,0 +1,42 @@
+<app-nav-bar></app-nav-bar>
+<div class="jumbotron text-center">
+  <h3>Shopping Cart</h3>
+</div>
+<div class="table-responsive">
+  <table class="table table-bordered">
+<thead>
+     <tr>
+       <th>id</th>
+       <th>image</th>
+       <th>Product</th>
+       <th>Price</th>
+       <th>Quantity</th>
+       <th>total</th>
+     </tr>
+</thead>
+    <tbody>
+
+    <tr *ngFor="let pp of product1">
+      <th>{{pp.id}}</th>
+      <th><img style="width:150px;height:150px;margin:auto;" src="{{pp.product.src}}"></th>
+      <th>{{pp.product.name}}</th>
+      <th>{{pp.product.price}}</th>
+      <th> <button type="button" class="btn btn-primary mx-4" (click)="removefromcart(pp.product.id)">-</button>{{pp.quantity}}
+        <button type="button" class="btn btn-primary mx-4" (click)="addProduct(pp.product.id)">+</button></th>
+      <th>{{pp.totalprice}}</th>
+      <th><button type="submit" class="btn btn-primary btn-sm" (click)="removeproduct(pp.product.id)">Remove</button></th>
+    </tr>
+
+    </tbody>
+    <tfoot>
+      <tr>
+<!--        <th class="text-right" colspan="7" (click)="totalprice()">total={{product1.totalprice}}<br>-->
+        <th class="text-right" colspan="7" >
+          <button type="submit" class="btn btn-primary btn-sm mt-2" (click)="checkout()">Buy Products</button></th>
+      </tr>
+    </tfoot>
+  </table>
+  <div style="text-align: center; margin-bottom:80px">
+  <button type="submit" class="btn btn-primary mt-2" (click)="clearcart()">Clear Cart</button>
+</div>
+</div>

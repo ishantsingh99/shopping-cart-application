@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4bdf31f0-8510-4d32-85b3-10021b0fb343" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/app/add-product/add-product.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/add-product/add-product.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.route.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.route.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/edit-product/edit-product.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/edit-product/edit-product.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/home-page/home-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/home-page/home-page.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/home-page/home-page.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/home-page/home-page.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/login/login.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/login/login.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/login/login.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/login/login.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/nav-bar/nav-bar.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/nav-bar/nav-bar.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/nav-bar/nav-bar.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/nav-bar/nav-bar.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/product-details/product-details.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/product-details/product-details.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/product-details/product-details.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/product-list/product-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/product-list/product-list.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/product-list/product-list.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/product-list/product-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/product-list/products.contant.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/profile/profile.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/profile/profile.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/profile/profile.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/profile/profile.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/profile/profile.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/profile/profile.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/profile_service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/profile_service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/sign-up/sign-up.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/sign-up/sign-up.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/sign-up/sign-up.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/sign-up/sign-up.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/user-cart/user-cart.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/user-cart/user-cart.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1REHz28NFXjTGn9idmmfPR9VsJi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Shopping-cart-backend-hitesh" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="ts.external.directory.path" value="C:\Users\Ishant Singh\IdeaProjects\shopping\node_modules\typescript\lib" />
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="E2E Tests (shopping)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bdf31f0-8510-4d32-85b3-10021b0fb343" name="Default Changelist" comment="" />
+      <created>1569225593320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569225593320</updated>
+      <workItem from="1569225597943" duration="8902000" />
+      <workItem from="1569254800551" duration="597000" />
+      <workItem from="1569303204969" duration="16703000" />
+      <workItem from="1569351984865" duration="368000" />
+      <workItem from="1569382973248" duration="306000" />
+      <workItem from="1569385347512" duration="23314000" />
+      <workItem from="1569472833805" duration="15492000" />
+      <workItem from="1569555989498" duration="1885000" />
+      <workItem from="1569601723912" duration="4400000" />
+      <workItem from="1569645105581" duration="2378000" />
+      <workItem from="1569684134601" duration="604000" />
+      <workItem from="1569741336937" duration="4318000" />
+      <workItem from="1569816126053" duration="677000" />
+      <workItem from="1569819488471" duration="2589000" />
+      <workItem from="1569845822161" duration="1008000" />
+      <workItem from="1569921203292" duration="2586000" />
+      <workItem from="1569924087196" duration="4548000" />
+      <workItem from="1570171016827" duration="4187000" />
+      <workItem from="1570181660863" duration="9907000" />
+      <workItem from="1570247756784" duration="24460000" />
+      <workItem from="1570337201022" duration="2813000" />
+      <workItem from="1570531727639" duration="6469000" />
+      <workItem from="1570548909079" duration="1560000" />
+      <workItem from="1570596713523" duration="6442000" />
+      <workItem from="1570623632651" duration="1411000" />
+      <workItem from="1570694865135" duration="4198000" />
+      <workItem from="1570765082221" duration="1681000" />
+      <workItem from="1570778018874" duration="1771000" />
+      <workItem from="1570795126918" duration="11048000" />
+      <workItem from="1570851659746" duration="8714000" />
+      <workItem from="1570868744695" duration="644000" />
+      <workItem from="1570887199892" duration="5310000" />
+      <workItem from="1570900952175" duration="768000" />
+      <workItem from="1570983562817" duration="1653000" />
+      <workItem from="1570988267256" duration="2281000" />
+      <workItem from="1571024677102" duration="18580000" />
+      <workItem from="1571115493331" duration="4150000" />
+      <workItem from="1571226877688" duration="12481000" />
+      <workItem from="1571281409271" duration="7373000" />
+      <workItem from="1571299954099" duration="30032000" />
+      <workItem from="1571368392302" duration="16089000" />
+      <workItem from="1572014115785" duration="697000" />
+      <workItem from="1572439001879" duration="5062000" />
+      <workItem from="1572508819763" duration="7112000" />
+      <workItem from="1572615051110" duration="3192000" />
+      <workItem from="1572673129587" duration="7212000" />
+      <workItem from="1572880476140" duration="2352000" />
+      <workItem from="1572925187328" duration="196000" />
+      <workItem from="1573014996423" duration="90000" />
+      <workItem from="1573015350574" duration="9393000" />
+      <workItem from="1573098192747" duration="4753000" />
+      <workItem from="1573188462651" duration="5814000" />
+      <workItem from="1573488763456" duration="1196000" />
+      <workItem from="1573551823941" duration="63000" />
+      <workItem from="1573617766666" duration="4062000" />
+      <workItem from="1573649735547" duration="1251000" />
+      <workItem from="1573703019805" duration="2630000" />
+      <workItem from="1573739166490" duration="1830000" />
+      <workItem from="1577200923679" duration="703000" />
+      <workItem from="1577427473074" duration="641000" />
+      <workItem from="1578159788009" duration="600000" />
+      <workItem from="1578461174122" duration="11758000" />
+      <workItem from="1578807538449" duration="6452000" />
+      <workItem from="1578817185653" duration="2485000" />
+      <workItem from="1578847428282" duration="138000" />
+      <workItem from="1578934214467" duration="667000" />
+      <workItem from="1579417046346" duration="24000" />
+      <workItem from="1579793935439" duration="647000" />
+    </task>
+    <task id="LOCAL-00001" summary="2nd commit">
+      <created>1569228542192</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569228542192</updated>
+    </task>
+    <task id="LOCAL-00002" summary="3rd commit">
+      <created>1569229238868</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569229238868</updated>
+    </task>
+    <task id="LOCAL-00003" summary="4th commit">
+      <created>1569318026301</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1569318026301</updated>
+    </task>
+    <task id="LOCAL-00004" summary="5th commit">
+      <created>1569403517246</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569403517246</updated>
+    </task>
+    <task id="LOCAL-00005" summary="7th commit">
+      <created>1570606056731</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1570606056731</updated>
+    </task>
+    <task id="LOCAL-00006" summary="7th commit">
+      <created>1570868800060</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1570868800060</updated>
+    </task>
+    <task id="LOCAL-00007" summary="7th commit">
+      <created>1571117029071</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1571117029071</updated>
+    </task>
+    <task id="LOCAL-00008" summary="7th commit">
+      <created>1571119959825</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1571119959825</updated>
+    </task>
+    <task id="LOCAL-00009" summary="7th commit">
+      <created>1571306721692</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1571306721692</updated>
+    </task>
+    <task id="LOCAL-00010" summary="8th commit">
+      <created>1571377283820</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1571377283820</updated>
+    </task>
+    <task id="LOCAL-00011" summary="9th commit">
+      <created>1571397273545</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1571397273546</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ts" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="2nd commit" />
+    <MESSAGE value="3rd commit" />
+    <MESSAGE value="4th commit" />
+    <MESSAGE value="5th commit" />
+    <MESSAGE value="6th commit" />
+    <MESSAGE value="7th commit" />
+    <MESSAGE value="8th commit" />
+    <MESSAGE value="9th commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="9th commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1578482651410">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578482651410" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1578481919488">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1578481919488" />
+  </component>
+</project>
